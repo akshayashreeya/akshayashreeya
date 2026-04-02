@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Aeris (Akshaya Shree Baskar)
+# 👋 Hi, I'm Akshaya (Akshaya Shree Baskar)
 **AI Engineer | RAG & Conversational AI | Computer Vision | SLM Experimentation**
 
 I work on real-world AI systems — RAG pipelines, session-aware memory, SLM reasoning, voice-driven agents, and domain-specific AI applications. My background spans enterprise AI engineering, computer vision research, and patent-backed innovation.
